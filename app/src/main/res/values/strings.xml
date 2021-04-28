@@ -5,4 +5,8 @@
     <string name="nome">Nome</string>
     <string name="email">Email</string>
     <string name="telefone">Telefone</string>
+    <string name="button">Button</string>
+    <string name="enviar">Enviar</string>
+    <string name="received_message">Received Message</string>
+    <string name="textview">TextView</string>
 </resources>
