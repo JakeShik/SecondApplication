@@ -1,0 +1,8 @@
+<resources>
+    <string name="app_name">SecondApplication</string>
+    <string name="textlongmessage_textmultiline">textLongMessage|textMultiLine</string>
+    <string name="idade">Idade</string>
+    <string name="nome">Nome</string>
+    <string name="email">Email</string>
+    <string name="telefone">Telefone</string>
+</resources>
